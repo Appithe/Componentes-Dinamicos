@@ -1,0 +1,15 @@
+{
+    "nombreApp": "Componentes",
+    "rutas":[
+        {
+            "ruta" : "info",
+            "icon": "info",
+            "texto": "Info"
+        },
+        {
+            "ruta" : "agregar",
+            "icon": "add",
+            "texto": "Agregar"
+        }
+    ]
+}
